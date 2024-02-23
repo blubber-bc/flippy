@@ -1,5 +1,4 @@
-# Flippy
-## A remote control for Windows devices
+# Flippy - a remote control for Windows devices
 ---
 ### ⚠️ DISCLAIMER: Flippy is designed to be used for development and experimentation purposes only. We are not responsible for any misuse of this tool.
 ---
